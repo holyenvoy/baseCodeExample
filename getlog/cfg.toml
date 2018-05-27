@@ -1,0 +1,16 @@
+listen=":8888"
+
+mhost="m4205.sh.mysql.m.com"
+mport="4205"
+mdb="pontus"
+mpwd="Je9lhHvRIadSbIgl"
+mmaxidle=100
+mmaxopen=2000
+mtimeout=10
+msplit=256
+piliver="v1"
+
+xml="http://192.168.133.73/stat"
+time=10
+
+

@@ -1,0 +1,15 @@
+<seelog>
+		<outputs formatid="main">
+<!--<filter levels="info,critical,error">-->
+<!--<console />-->
+<!--</filter>-->
+<!--<filter levels="info,critical,error">-->
+<filter levels="debug,info,critical,error">
+<buffered size="10000" flushperiod="1000">
+<rollingfile type="date" filename="./logs/xml_fps_bit.log" datepattern="2006.01.02" namemode="prefix" maxrolls="30"/>
+</buffered>																															        </filter>																																    </outputs>
+<formats>
+																																					        <format id="main" format="%Date %Time [%LEVEL] [line:%Line]:%Msg%n"/>
+																																							    </formats>
+																																						</seelog>
+																																						

@@ -1,0 +1,533 @@
+2016-05-03 10:50:14 [INFO] [line:45]:InitAll success.
+2016-05-03 10:50:14 [INFO] [line:21]::@tcp(:)/?timeout=0s&charset=utf8
+2016-05-03 10:50:14 [INFO] [line:30]:init mysql ok
+2016-05-03 10:50:14 [ERROR] [line:142]:dial tcp: unknown port tcp/
+2016-05-03 10:50:14 [INFO] [line:95]:[main] InitAll success.
+2016-05-03 10:50:14 [INFO] [line:75]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 10:50:14 [ERROR] [line:77]:dial tcp: unknown port tcp/
+2016-05-03 10:50:14 [INFO] [line:75]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 10:50:14 [ERROR] [line:77]:dial tcp: unknown port tcp/
+2016-05-03 10:50:14 [INFO] [line:117]:2
+2016-05-03 10:50:14 [INFO] [line:118]:0
+2016-05-03 10:50:14 [INFO] [line:119]:{{ rtmp} [{mt_meipai []} {mt_test [{6597890876564345678hsada2 2.686622e+06 10 44100 0} {6597890876564345678hsada 5.301027e+06 10 44100 0}]}]}
+2016-05-03 11:00:33 [INFO] [line:47]:InitAll success.
+2016-05-03 11:00:33 [INFO] [line:21]:lfw:531197567l@tcp(127.0.0.1:3306)/lfw?timeout=10s&charset=utf8
+2016-05-03 11:00:33 [INFO] [line:30]:init mysql ok
+2016-05-03 11:00:33 [ERROR] [line:142]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 11:00:33 [INFO] [line:98]:[main] InitAll success.
+2016-05-03 11:26:24 [INFO] [line:47]:InitAll success.
+2016-05-03 11:26:24 [INFO] [line:21]:lfw:531197567l@tcp(127.0.0.1:3306)/lfw?timeout=10s&charset=utf8
+2016-05-03 11:26:24 [INFO] [line:30]:init mysql ok
+2016-05-03 11:26:24 [ERROR] [line:142]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 11:26:24 [INFO] [line:98]:[main] InitAll success.
+2016-05-03 11:26:54 [ERROR] [line:102]:Get http://192.168.133.14/stat: dial tcp 192.168.133.14:80: i/o timeout
+2016-05-03 11:31:02 [INFO] [line:47]:InitAll success.
+2016-05-03 11:31:02 [INFO] [line:21]:lfw:531197567l@tcp(127.0.0.1:3306)/lfw?timeout=10s&charset=utf8
+2016-05-03 11:31:02 [INFO] [line:30]:init mysql ok
+2016-05-03 11:31:02 [ERROR] [line:142]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 11:31:02 [INFO] [line:98]:[main] InitAll success.
+2016-05-03 11:31:12 [INFO] [line:78]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 11:31:12 [ERROR] [line:80]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 11:31:12 [INFO] [line:78]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 11:31:12 [ERROR] [line:80]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 11:31:22 [INFO] [line:78]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 11:31:22 [ERROR] [line:80]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 11:31:22 [INFO] [line:78]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 11:31:22 [ERROR] [line:80]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 11:31:32 [INFO] [line:78]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 11:31:32 [ERROR] [line:80]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 11:31:32 [INFO] [line:78]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 11:31:32 [ERROR] [line:80]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 11:31:42 [INFO] [line:78]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 11:31:42 [ERROR] [line:80]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 11:31:42 [INFO] [line:78]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 11:31:42 [ERROR] [line:80]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 11:31:52 [INFO] [line:78]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 11:31:52 [ERROR] [line:80]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 11:31:52 [INFO] [line:78]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 11:31:52 [ERROR] [line:80]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 11:32:02 [INFO] [line:78]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 11:32:02 [ERROR] [line:80]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 11:32:02 [INFO] [line:78]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 11:32:02 [ERROR] [line:80]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 11:32:12 [INFO] [line:78]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 11:32:12 [ERROR] [line:80]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 11:32:12 [INFO] [line:78]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 11:32:12 [ERROR] [line:80]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 11:32:22 [INFO] [line:78]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 11:32:22 [ERROR] [line:80]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 11:32:22 [INFO] [line:78]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 11:32:22 [ERROR] [line:80]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 11:32:32 [INFO] [line:78]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 11:32:32 [ERROR] [line:80]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 11:32:32 [INFO] [line:78]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 11:32:32 [ERROR] [line:80]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 11:32:42 [INFO] [line:78]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 11:32:42 [ERROR] [line:80]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 11:32:42 [INFO] [line:78]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 11:32:42 [ERROR] [line:80]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 11:32:52 [INFO] [line:78]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 11:32:52 [ERROR] [line:80]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 11:32:52 [INFO] [line:78]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 11:32:52 [ERROR] [line:80]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 11:33:02 [INFO] [line:78]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 11:33:02 [ERROR] [line:80]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 11:33:02 [INFO] [line:78]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 11:33:02 [ERROR] [line:80]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 13:42:55 [INFO] [line:46]:InitAll success.
+2016-05-03 13:42:55 [INFO] [line:21]:lfw:531197567l@tcp(127.0.0.1:3306)/lfw?timeout=10s&charset=utf8
+2016-05-03 13:42:55 [INFO] [line:30]:init mysql ok
+2016-05-03 13:42:55 [ERROR] [line:142]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 13:42:55 [INFO] [line:97]:[main] InitAll success.
+2016-05-03 13:42:56 [INFO] [line:77]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 13:42:56 [ERROR] [line:79]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 13:42:56 [INFO] [line:77]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 13:42:56 [ERROR] [line:79]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 13:42:56 [INFO] [line:119]:2
+2016-05-03 13:42:56 [INFO] [line:120]:0
+2016-05-03 13:42:56 [INFO] [line:121]:{{ rtmp} [{mt_meipai []} {mt_test [{6597890876564345678hsada2 2.686622e+06 10 44100 0} {6597890876564345678hsada 5.301027e+06 10 44100 0}]}]}
+2016-05-03 14:18:05 [INFO] [line:46]:InitAll success.
+2016-05-03 14:18:05 [INFO] [line:21]:root:531197567l@tcp(127.0.0.1:3306)/root?timeout=10s&charset=utf8
+2016-05-03 14:18:05 [INFO] [line:30]:init mysql ok
+2016-05-03 14:18:05 [ERROR] [line:142]:Error 1049: Unknown database 'root'
+2016-05-03 14:18:05 [INFO] [line:97]:[main] InitAll success.
+2016-05-03 14:18:05 [INFO] [line:77]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 14:18:05 [ERROR] [line:79]:Error 1049: Unknown database 'root'
+2016-05-03 14:18:05 [INFO] [line:77]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 14:18:05 [ERROR] [line:79]:Error 1049: Unknown database 'root'
+2016-05-03 14:18:05 [INFO] [line:119]:2
+2016-05-03 14:18:05 [INFO] [line:120]:0
+2016-05-03 14:18:05 [INFO] [line:121]:{{ rtmp} [{mt_meipai []} {mt_test [{6597890876564345678hsada2 2.686622e+06 10 44100 0} {6597890876564345678hsada 5.301027e+06 10 44100 0}]}]}
+2016-05-03 14:36:22 [INFO] [line:46]:InitAll success.
+2016-05-03 14:36:22 [INFO] [line:21]:lfw:531197567l@tcp(127.0.0.1:3306)/lfw?timeout=10s&charset=utf8
+2016-05-03 14:36:22 [INFO] [line:30]:init mysql ok
+2016-05-03 14:36:22 [ERROR] [line:142]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 14:36:22 [INFO] [line:97]:[main] InitAll success.
+2016-05-03 14:36:22 [INFO] [line:77]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 14:36:22 [ERROR] [line:79]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 14:36:22 [INFO] [line:77]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 14:36:22 [ERROR] [line:79]:Error 1045: Access denied for user 'lfw'@'localhost' (using password: YES)
+2016-05-03 14:36:22 [INFO] [line:119]:2
+2016-05-03 14:36:22 [INFO] [line:120]:0
+2016-05-03 14:36:22 [INFO] [line:121]:{{ rtmp} [{mt_meipai []} {mt_test [{6597890876564345678hsada2 2.686622e+06 10 44100 0} {6597890876564345678hsada 5.301027e+06 10 44100 0}]}]}
+2016-05-03 14:55:05 [INFO] [line:46]:InitAll success.
+2016-05-03 14:55:05 [INFO] [line:21]:lfw:531197567l@tcp(127.0.0.1:3306)/lfw?timeout=10s&charset=utf8
+2016-05-03 14:55:05 [INFO] [line:30]:init mysql ok
+2016-05-03 14:55:05 [ERROR] [line:142]:Error 1146: Table 'lfw.service' doesn't exist
+2016-05-03 14:55:05 [INFO] [line:97]:[main] InitAll success.
+2016-05-03 14:55:05 [INFO] [line:77]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 14:55:05 [INFO] [line:77]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 14:55:05 [INFO] [line:119]:2
+2016-05-03 14:55:05 [INFO] [line:120]:0
+2016-05-03 14:55:05 [INFO] [line:121]:{{ rtmp} [{mt_meipai []} {mt_test [{6597890876564345678hsada2 2.686622e+06 10 44100 0} {6597890876564345678hsada 5.301027e+06 10 44100 0}]}]}
+2016-05-03 14:57:21 [INFO] [line:46]:InitAll success.
+2016-05-03 14:57:21 [INFO] [line:21]:lfw:531197567l@tcp(127.0.0.1:3306)/lfw?timeout=10s&charset=utf8
+2016-05-03 14:57:21 [INFO] [line:30]:init mysql ok
+2016-05-03 14:57:21 [ERROR] [line:142]:Error 1146: Table 'lfw.service' doesn't exist
+2016-05-03 14:57:21 [INFO] [line:97]:[main] InitAll success.
+2016-05-03 14:57:21 [INFO] [line:77]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 14:57:21 [INFO] [line:77]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 14:57:21 [INFO] [line:119]:2
+2016-05-03 14:57:21 [INFO] [line:120]:0
+2016-05-03 14:57:21 [INFO] [line:121]:{{ rtmp} [{mt_meipai []} {mt_test [{6597890876564345678hsada2 2.686622e+06 10 44100 0} {6597890876564345678hsada 5.301027e+06 10 44100 0}]}]}
+2016-05-03 15:07:09 [INFO] [line:46]:InitAll success.
+2016-05-03 15:07:09 [INFO] [line:21]:lfw:531197567l@tcp(127.0.0.1:3306)/lfw?timeout=10s&charset=utf8
+2016-05-03 15:07:09 [INFO] [line:30]:init mysql ok
+2016-05-03 15:07:09 [ERROR] [line:142]:Error 1146: Table 'lfw.service' doesn't exist
+2016-05-03 15:07:09 [INFO] [line:97]:[main] InitAll success.
+2016-05-03 15:07:09 [INFO] [line:77]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:07:10 [INFO] [line:77]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:07:10 [INFO] [line:119]:2
+2016-05-03 15:07:10 [INFO] [line:120]:0
+2016-05-03 15:07:10 [INFO] [line:121]:{{ rtmp} [{mt_meipai []} {mt_test [{6597890876564345678hsada2 2.686622e+06 10 44100 0} {6597890876564345678hsada 5.301027e+06 10 44100 0}]}]}
+2016-05-03 15:13:44 [INFO] [line:46]:InitAll success.
+2016-05-03 15:13:44 [INFO] [line:21]:lfw:531197567l@tcp(127.0.0.1:3306)/lfw?timeout=10s&charset=utf8
+2016-05-03 15:13:44 [INFO] [line:30]:init mysql ok
+2016-05-03 15:13:44 [ERROR] [line:142]:Error 1146: Table 'lfw.service' doesn't exist
+2016-05-03 15:13:44 [INFO] [line:97]:[main] InitAll success.
+2016-05-03 15:13:45 [INFO] [line:77]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:13:45 [INFO] [line:77]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:13:45 [INFO] [line:119]:2
+2016-05-03 15:13:45 [INFO] [line:120]:0
+2016-05-03 15:13:45 [INFO] [line:121]:{{ rtmp} [{mt_meipai []} {mt_test [{6597890876564345678hsada2 2.686622e+06 10 44100 0} {6597890876564345678hsada 5.301027e+06 10 44100 0}]}]}
+2016-05-03 15:14:31 [INFO] [line:46]:InitAll success.
+2016-05-03 15:14:31 [INFO] [line:21]:lfw:531197567l@tcp(127.0.0.1:3306)/lfw?timeout=10s&charset=utf8
+2016-05-03 15:14:31 [INFO] [line:30]:init mysql ok
+2016-05-03 15:14:31 [ERROR] [line:142]:Error 1146: Table 'lfw.service' doesn't exist
+2016-05-03 15:14:31 [INFO] [line:97]:[main] InitAll success.
+2016-05-03 15:14:31 [INFO] [line:77]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:14:31 [INFO] [line:77]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:14:31 [INFO] [line:119]:2
+2016-05-03 15:14:31 [INFO] [line:120]:0
+2016-05-03 15:14:31 [INFO] [line:121]:{{ rtmp} [{mt_meipai []} {mt_test [{6597890876564345678hsada2 2.686622e+06 10 44100 0} {6597890876564345678hsada 5.301027e+06 10 44100 0}]}]}
+2016-05-03 15:21:30 [INFO] [line:46]:InitAll success.
+2016-05-03 15:21:30 [INFO] [line:21]:lfw:531197567l@tcp(127.0.0.1:3306)/lfw?timeout=10s&charset=utf8
+2016-05-03 15:21:30 [INFO] [line:30]:init mysql ok
+2016-05-03 15:21:30 [ERROR] [line:142]:Error 1054: Unknown column 'gid' in 'field list'
+2016-05-03 15:21:30 [INFO] [line:97]:[main] InitAll success.
+2016-05-03 15:21:30 [INFO] [line:77]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:21:30 [INFO] [line:77]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:21:30 [INFO] [line:119]:2
+2016-05-03 15:21:30 [INFO] [line:120]:0
+2016-05-03 15:21:30 [INFO] [line:121]:{{ rtmp} [{mt_meipai []} {mt_test [{6597890876564345678hsada2 2.686622e+06 10 44100 0} {6597890876564345678hsada 5.301027e+06 10 44100 0}]}]}
+2016-05-03 15:22:37 [INFO] [line:46]:InitAll success.
+2016-05-03 15:22:37 [INFO] [line:21]:lfw:531197567l@tcp(127.0.0.1:3306)/lfw?timeout=10s&charset=utf8
+2016-05-03 15:22:37 [INFO] [line:30]:init mysql ok
+2016-05-03 15:22:37 [ERROR] [line:142]:Error 1146: Table 'lfw.service' doesn't exist
+2016-05-03 15:22:37 [INFO] [line:97]:[main] InitAll success.
+2016-05-03 15:22:37 [INFO] [line:77]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:22:37 [INFO] [line:77]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:22:37 [INFO] [line:119]:2
+2016-05-03 15:22:37 [INFO] [line:120]:0
+2016-05-03 15:22:37 [INFO] [line:121]:{{ rtmp} [{mt_meipai []} {mt_test [{6597890876564345678hsada2 2.686622e+06 10 44100 0} {6597890876564345678hsada 5.301027e+06 10 44100 0}]}]}
+2016-05-03 15:23:31 [INFO] [line:46]:InitAll success.
+2016-05-03 15:23:31 [INFO] [line:21]:lfw:531197567l@tcp(127.0.0.1:3306)/lfw?timeout=10s&charset=utf8
+2016-05-03 15:23:31 [INFO] [line:30]:init mysql ok
+2016-05-03 15:23:31 [ERROR] [line:142]:Error 1146: Table 'lfw.service' doesn't exist
+2016-05-03 15:23:31 [INFO] [line:97]:[main] InitAll success.
+2016-05-03 15:23:31 [INFO] [line:77]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:23:31 [INFO] [line:77]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:23:31 [INFO] [line:119]:2
+2016-05-03 15:23:31 [INFO] [line:120]:0
+2016-05-03 15:23:31 [INFO] [line:121]:{{ rtmp} [{mt_meipai []} {mt_test [{6597890876564345678hsada2 2.686622e+06 10 44100 0} {6597890876564345678hsada 5.301027e+06 10 44100 0}]}]}
+2016-05-03 15:23:45 [INFO] [line:46]:InitAll success.
+2016-05-03 15:23:45 [INFO] [line:21]:lfw:531197567l@tcp(127.0.0.1:3306)/lfw?timeout=10s&charset=utf8
+2016-05-03 15:23:45 [INFO] [line:30]:init mysql ok
+2016-05-03 15:23:45 [ERROR] [line:142]:Error 1146: Table 'lfw.service' doesn't exist
+2016-05-03 15:23:45 [INFO] [line:97]:[main] InitAll success.
+2016-05-03 15:23:46 [INFO] [line:77]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:23:46 [INFO] [line:77]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:23:46 [INFO] [line:119]:2
+2016-05-03 15:23:46 [INFO] [line:120]:0
+2016-05-03 15:23:46 [INFO] [line:121]:{{ rtmp} [{mt_meipai []} {mt_test [{6597890876564345678hsada2 2.686622e+06 10 44100 0} {6597890876564345678hsada 5.301027e+06 10 44100 0}]}]}
+2016-05-03 15:28:19 [INFO] [line:46]:InitAll success.
+2016-05-03 15:28:19 [INFO] [line:48]:ddddddddddddddddddddddddddddd
+2016-05-03 15:28:19 [INFO] [line:19]:lfw:531197567l@tcp(127.0.0.1:3306)/lfw?timeout=10s&charset=utf8
+2016-05-03 15:28:19 [INFO] [line:28]:init mysql ok
+2016-05-03 15:28:19 [ERROR] [line:88]:Error 1146: Table 'lfw.service' doesn't exist
+2016-05-03 15:28:19 [INFO] [line:98]:[main] InitAll success.
+2016-05-03 15:28:19 [INFO] [line:78]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:28:19 [INFO] [line:78]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:28:19 [INFO] [line:120]:2
+2016-05-03 15:28:19 [INFO] [line:121]:0
+2016-05-03 15:28:19 [INFO] [line:122]:{{ rtmp} [{mt_meipai []} {mt_test [{6597890876564345678hsada2 2.686622e+06 10 44100 0} {6597890876564345678hsada 5.301027e+06 10 44100 0}]}]}
+2016-05-03 15:29:22 [INFO] [line:46]:InitAll success.
+2016-05-03 15:29:22 [INFO] [line:19]:lfw:531197567l@tcp(127.0.0.1:3306)/lfw?timeout=10s&charset=utf8
+2016-05-03 15:29:22 [INFO] [line:28]:init mysql ok
+2016-05-03 15:29:22 [ERROR] [line:88]:Error 1146: Table 'lfw.service' doesn't exist
+2016-05-03 15:29:22 [INFO] [line:49]:sdaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+2016-05-03 15:29:22 [INFO] [line:98]:[main] InitAll success.
+2016-05-03 15:29:22 [INFO] [line:78]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:29:22 [INFO] [line:78]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:29:22 [INFO] [line:120]:2
+2016-05-03 15:29:22 [INFO] [line:121]:0
+2016-05-03 15:29:22 [INFO] [line:122]:{{ rtmp} [{mt_meipai []} {mt_test [{6597890876564345678hsada2 2.686622e+06 10 44100 0} {6597890876564345678hsada 5.301027e+06 10 44100 0}]}]}
+2016-05-03 15:32:41 [INFO] [line:46]:InitAll success.
+2016-05-03 15:32:41 [INFO] [line:27]:init mysql ok
+2016-05-03 15:32:41 [ERROR] [line:87]:ddddd:
+2016-05-03 15:32:41 [INFO] [line:97]:[main] InitAll success.
+2016-05-03 15:32:41 [INFO] [line:77]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:32:41 [INFO] [line:77]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:32:41 [INFO] [line:119]:2
+2016-05-03 15:32:41 [INFO] [line:120]:0
+2016-05-03 15:32:41 [INFO] [line:121]:{{ rtmp} [{mt_meipai []} {mt_test [{6597890876564345678hsada2 2.686622e+06 10 44100 0} {6597890876564345678hsada 5.301027e+06 10 44100 0}]}]}
+2016-05-03 15:33:21 [INFO] [line:46]:InitAll success.
+2016-05-03 15:33:21 [INFO] [line:27]:init mysql ok
+2016-05-03 15:33:21 [ERROR] [line:87]:err.Error()
+2016-05-03 15:33:21 [INFO] [line:97]:[main] InitAll success.
+2016-05-03 15:33:21 [INFO] [line:77]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:33:21 [INFO] [line:77]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:33:21 [INFO] [line:119]:2
+2016-05-03 15:33:21 [INFO] [line:120]:0
+2016-05-03 15:33:21 [INFO] [line:121]:{{ rtmp} [{mt_meipai []} {mt_test [{6597890876564345678hsada2 2.686622e+06 10 44100 0} {6597890876564345678hsada 5.301027e+06 10 44100 0}]}]}
+2016-05-03 15:37:48 [INFO] [line:46]:InitAll success.
+2016-05-03 15:37:48 [INFO] [line:27]:init mysql ok
+2016-05-03 15:37:48 [INFO] [line:97]:[main] InitAll success.
+2016-05-03 15:37:48 [INFO] [line:77]:sql：update stream set speed = '2686622.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:37:48 [INFO] [line:77]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:37:48 [INFO] [line:119]:2
+2016-05-03 15:37:48 [INFO] [line:120]:0
+2016-05-03 15:37:48 [INFO] [line:121]:{{ rtmp} [{mt_meipai []} {mt_test [{6597890876564345678hsada2 2.686622e+06 10 44100 0} {6597890876564345678hsada 5.301027e+06 10 44100 0}]}]}
+2016-05-03 15:40:01 [INFO] [line:46]:InitAll success.
+2016-05-03 15:40:01 [INFO] [line:27]:init mysql ok
+2016-05-03 15:40:01 [INFO] [line:97]:[main] InitAll success.
+2016-05-03 15:40:01 [INFO] [line:77]:sql：update stream set speed = '2686622.000000',audio = '44144.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:40:01 [INFO] [line:77]:sql：update stream set speed = '5301027.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:40:01 [INFO] [line:119]:2
+2016-05-03 15:40:01 [INFO] [line:120]:0
+2016-05-03 15:40:01 [INFO] [line:121]:{{ rtmp} [{mt_meipai []} {mt_test [{6597890876564345678hsada2 2.686622e+06 10 44144 0} {6597890876564345678hsada 5.301027e+06 10 44100 0}]}]}
+2016-05-03 15:50:54 [INFO] [line:46]:InitAll success.
+2016-05-03 15:50:54 [INFO] [line:27]:init mysql ok
+2016-05-03 15:50:54 [INFO] [line:97]:[main] InitAll success.
+2016-05-03 15:50:54 [INFO] [line:77]:sql：update stream set speed = '12557718.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:50:54 [INFO] [line:77]:sql：update stream set speed = '18536184.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:50:54 [INFO] [line:77]:sql：update stream set speed = '9654015.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:50:54 [INFO] [line:77]:sql：update stream set speed = '15969090.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:50:54 [INFO] [line:119]:2
+2016-05-03 15:50:54 [INFO] [line:120]:0
+2016-05-03 15:50:54 [INFO] [line:121]:{{ rtmp} [{mt_meipai []} {mt_test [{6597890876564345678hsada1 1.2557718e+07 10 44100 0} {6597890876564345678hsada2 1.8536184e+07 10 44100 0} {6597890876564345678hsada3 9.654015e+06 10 44100 0} {6597890876564345678hsada 1.596909e+07 10 44100 0}]}]}
+2016-05-03 15:51:16 [INFO] [line:46]:InitAll success.
+2016-05-03 15:51:16 [INFO] [line:27]:init mysql ok
+2016-05-03 15:51:16 [INFO] [line:97]:[main] InitAll success.
+2016-05-03 15:51:16 [INFO] [line:77]:sql：update stream set speed = '15735880.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:51:16 [INFO] [line:77]:sql：update stream set speed = '21702304.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:51:16 [INFO] [line:77]:sql：update stream set speed = '12832177.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:51:16 [INFO] [line:77]:sql：update stream set speed = '19147718.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:51:16 [INFO] [line:119]:2
+2016-05-03 15:51:16 [INFO] [line:120]:0
+2016-05-03 15:51:16 [INFO] [line:121]:{{ rtmp} [{mt_meipai []} {mt_test [{6597890876564345678hsada1 1.573588e+07 10 44100 0} {6597890876564345678hsada2 2.1702304e+07 10 44100 0} {6597890876564345678hsada3 1.2832177e+07 10 44100 0} {6597890876564345678hsada 1.9147718e+07 10 44100 0}]}]}
+2016-05-03 15:52:08 [INFO] [line:47]:InitAll success.
+2016-05-03 15:52:08 [INFO] [line:27]:init mysql ok
+2016-05-03 15:52:08 [INFO] [line:98]:[main] InitAll success.
+2016-05-03 15:52:18 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:52:18 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:52:18 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:52:18 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:52:28 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:52:28 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:52:28 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:52:28 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:52:38 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:52:38 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:52:38 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:52:38 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:52:48 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:52:48 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:52:48 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:52:48 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:52:58 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:52:58 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:52:58 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:52:58 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:53:08 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:53:08 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:53:08 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:53:08 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:53:18 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:53:18 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:53:18 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:53:18 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:53:28 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:53:28 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:53:28 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:53:28 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:53:38 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:53:38 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:53:38 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:53:38 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:53:48 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:53:48 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:53:48 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:53:48 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:53:58 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:53:58 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:53:58 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:53:58 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:54:08 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:54:08 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:54:08 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:54:08 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:54:18 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:54:18 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:54:18 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:54:18 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:54:28 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:54:28 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:54:28 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:54:28 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:54:38 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:54:38 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:54:38 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:54:38 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:54:48 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:54:48 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:54:48 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:54:48 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:54:58 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:54:58 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:54:58 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:54:58 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:55:08 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:55:08 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:55:08 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:55:08 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:55:18 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:55:18 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:55:18 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:55:18 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:55:28 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:55:28 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:55:28 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:55:28 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:55:38 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:55:38 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:55:38 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:55:38 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:55:48 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:55:48 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:55:48 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:55:48 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:55:58 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:55:58 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:55:58 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:55:58 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:56:08 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:56:08 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:56:08 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:56:08 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:56:18 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:56:18 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:56:18 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:56:18 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:56:28 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:56:29 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:56:29 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:56:29 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:56:39 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:56:39 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:56:39 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:56:39 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:56:49 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:56:49 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:56:49 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:56:49 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:56:59 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:56:59 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:56:59 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:56:59 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:57:09 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:57:09 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:57:09 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:57:09 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:57:19 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:57:19 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:57:19 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:57:19 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:57:29 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:57:29 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:57:29 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:57:29 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 15:57:39 [INFO] [line:78]:sql：update stream set speed = '23312476.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 15:57:39 [INFO] [line:78]:sql：update stream set speed = '29278436.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 15:57:39 [INFO] [line:78]:sql：update stream set speed = '20409240.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 15:57:39 [INFO] [line:78]:sql：update stream set speed = '26723848.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 16:15:35 [INFO] [line:47]:InitAll success.
+2016-05-03 16:15:35 [INFO] [line:27]:init mysql ok
+2016-05-03 16:15:35 [INFO] [line:98]:[main] InitAll success.
+2016-05-03 16:15:35 [INFO] [line:78]:sql：update stream set speed = '11453350.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 16:15:35 [INFO] [line:78]:sql：update stream set speed = '12107068.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 16:15:35 [INFO] [line:78]:sql：update stream set speed = '9364251.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 16:15:35 [INFO] [line:78]:sql：update stream set speed = '7521335.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada4' limit 1
+2016-05-03 16:15:35 [INFO] [line:78]:sql：update stream set speed = '5256046.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada5' limit 1
+2016-05-03 16:15:35 [INFO] [line:78]:sql：update stream set speed = '12556319.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 16:15:45 [INFO] [line:78]:sql：update stream set speed = '12905901.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 16:15:45 [INFO] [line:78]:sql：update stream set speed = '13573057.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 16:15:45 [INFO] [line:78]:sql：update stream set speed = '10829308.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 16:15:45 [INFO] [line:78]:sql：update stream set speed = '8985926.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada4' limit 1
+2016-05-03 16:15:45 [INFO] [line:78]:sql：update stream set speed = '6708597.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada5' limit 1
+2016-05-03 16:15:45 [INFO] [line:78]:sql：update stream set speed = '14009802.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 16:15:55 [INFO] [line:78]:sql：update stream set speed = '14370958.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 16:15:55 [INFO] [line:78]:sql：update stream set speed = '15038114.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 16:15:55 [INFO] [line:78]:sql：update stream set speed = '12282325.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 16:15:55 [INFO] [line:78]:sql：update stream set speed = '10438943.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada4' limit 1
+2016-05-03 16:15:55 [INFO] [line:78]:sql：update stream set speed = '8173654.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada5' limit 1
+2016-05-03 16:15:55 [INFO] [line:78]:sql：update stream set speed = '15474859.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 16:16:05 [INFO] [line:78]:sql：update stream set speed = '15823975.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 16:16:05 [INFO] [line:78]:sql：update stream set speed = '16490665.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 16:16:05 [INFO] [line:78]:sql：update stream set speed = '13747382.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 16:16:05 [INFO] [line:78]:sql：update stream set speed = '11903533.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada4' limit 1
+2016-05-03 16:16:05 [INFO] [line:78]:sql：update stream set speed = '9626205.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada5' limit 1
+2016-05-03 16:16:05 [INFO] [line:78]:sql：update stream set speed = '16926944.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 16:16:15 [INFO] [line:78]:sql：update stream set speed = '17288564.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 16:16:15 [INFO] [line:78]:sql：update stream set speed = '17943216.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 16:16:15 [INFO] [line:78]:sql：update stream set speed = '15199000.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 16:16:15 [INFO] [line:78]:sql：update stream set speed = '13356551.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada4' limit 1
+2016-05-03 16:16:15 [INFO] [line:78]:sql：update stream set speed = '11090795.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada5' limit 1
+2016-05-03 16:16:15 [INFO] [line:78]:sql：update stream set speed = '18391534.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 16:16:25 [INFO] [line:78]:sql：update stream set speed = '18754088.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 16:16:25 [INFO] [line:78]:sql：update stream set speed = '19408272.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 16:16:25 [INFO] [line:78]:sql：update stream set speed = '16664523.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 16:16:25 [INFO] [line:78]:sql：update stream set speed = '14822074.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada4' limit 1
+2016-05-03 16:16:25 [INFO] [line:78]:sql：update stream set speed = '12556319.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada5' limit 1
+2016-05-03 16:16:25 [INFO] [line:78]:sql：update stream set speed = '19857524.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 16:16:35 [INFO] [line:78]:sql：update stream set speed = '20178362.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 16:16:35 [INFO] [line:78]:sql：update stream set speed = '20873796.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 16:16:35 [INFO] [line:78]:sql：update stream set speed = '18117074.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 16:16:35 [INFO] [line:78]:sql：update stream set speed = '16274158.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada4' limit 1
+2016-05-03 16:16:35 [INFO] [line:78]:sql：update stream set speed = '14009336.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada5' limit 1
+2016-05-03 16:16:35 [INFO] [line:78]:sql：update stream set speed = '21310540.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 16:16:45 [INFO] [line:78]:sql：update stream set speed = '21644352.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 16:16:45 [INFO] [line:78]:sql：update stream set speed = '22326348.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 16:16:45 [INFO] [line:78]:sql：update stream set speed = '19583064.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 16:16:45 [INFO] [line:78]:sql：update stream set speed = '17740148.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada4' limit 1
+2016-05-03 16:16:45 [INFO] [line:78]:sql：update stream set speed = '15474393.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada5' limit 1
+2016-05-03 16:16:45 [INFO] [line:78]:sql：update stream set speed = '22774664.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 16:16:55 [INFO] [line:78]:sql：update stream set speed = '23109408.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 16:16:55 [INFO] [line:78]:sql：update stream set speed = '23776100.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 16:16:55 [INFO] [line:78]:sql：update stream set speed = '21047188.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 16:16:55 [INFO] [line:78]:sql：update stream set speed = '19190832.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada4' limit 1
+2016-05-03 16:16:55 [INFO] [line:78]:sql：update stream set speed = '16925544.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada5' limit 1
+2016-05-03 16:16:55 [INFO] [line:78]:sql：update stream set speed = '24228148.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 16:17:05 [INFO] [line:78]:sql：update stream set speed = '24561960.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 16:17:05 [INFO] [line:78]:sql：update stream set speed = '25229584.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 16:17:05 [INFO] [line:78]:sql：update stream set speed = '22500672.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 16:17:05 [INFO] [line:78]:sql：update stream set speed = '20655424.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada4' limit 1
+2016-05-03 16:17:05 [INFO] [line:78]:sql：update stream set speed = '18378560.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada5' limit 1
+2016-05-03 16:17:05 [INFO] [line:78]:sql：update stream set speed = '25693204.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 16:17:15 [INFO] [line:78]:sql：update stream set speed = '26027016.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 16:17:15 [INFO] [line:78]:sql：update stream set speed = '26693708.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 16:17:15 [INFO] [line:78]:sql：update stream set speed = '23964796.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 16:17:15 [INFO] [line:78]:sql：update stream set speed = '22108440.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada4' limit 1
+2016-05-03 16:17:15 [INFO] [line:78]:sql：update stream set speed = '19844084.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada5' limit 1
+2016-05-03 16:17:15 [INFO] [line:78]:sql：update stream set speed = '27145288.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 16:17:25 [INFO] [line:78]:sql：update stream set speed = '27479100.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 16:17:25 [INFO] [line:78]:sql：update stream set speed = '28146724.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 16:17:25 [INFO] [line:78]:sql：update stream set speed = '25417346.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 16:17:25 [INFO] [line:78]:sql：update stream set speed = '23572564.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada4' limit 1
+2016-05-03 16:17:25 [INFO] [line:78]:sql：update stream set speed = '21296168.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada5' limit 1
+2016-05-03 16:17:25 [INFO] [line:78]:sql：update stream set speed = '28610346.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 16:17:35 [INFO] [line:78]:sql：update stream set speed = '28943692.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 16:17:35 [INFO] [line:78]:sql：update stream set speed = '29598342.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 16:17:35 [INFO] [line:78]:sql：update stream set speed = '26869432.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 16:17:35 [INFO] [line:78]:sql：update stream set speed = '25024648.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada4' limit 1
+2016-05-03 16:17:35 [INFO] [line:78]:sql：update stream set speed = '22760292.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada5' limit 1
+2016-05-03 16:17:35 [INFO] [line:78]:sql：update stream set speed = '30062896.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 16:17:45 [INFO] [line:78]:sql：update stream set speed = '30395776.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 16:17:45 [INFO] [line:78]:sql：update stream set speed = '31062932.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 16:17:45 [INFO] [line:78]:sql：update stream set speed = '28321048.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 16:17:45 [INFO] [line:78]:sql：update stream set speed = '26477666.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada4' limit 1
+2016-05-03 16:17:45 [INFO] [line:78]:sql：update stream set speed = '24212376.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada5' limit 1
+2016-05-03 16:17:45 [INFO] [line:78]:sql：update stream set speed = '31514516.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 16:17:55 [INFO] [line:78]:sql：update stream set speed = '31861764.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 16:17:55 [INFO] [line:78]:sql：update stream set speed = '32528456.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 16:17:55 [INFO] [line:78]:sql：update stream set speed = '29786572.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 16:17:55 [INFO] [line:78]:sql：update stream set speed = '27942724.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada4' limit 1
+2016-05-03 16:17:55 [INFO] [line:78]:sql：update stream set speed = '25677900.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada5' limit 1
+2016-05-03 16:17:55 [INFO] [line:78]:sql：update stream set speed = '32992544.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 16:18:05 [INFO] [line:78]:sql：update stream set speed = '33313850.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 16:18:05 [INFO] [line:78]:sql：update stream set speed = '33981472.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 16:18:05 [INFO] [line:78]:sql：update stream set speed = '31251162.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 16:18:05 [INFO] [line:78]:sql：update stream set speed = '29395274.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada4' limit 1
+2016-05-03 16:18:05 [INFO] [line:78]:sql：update stream set speed = '27129984.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada5' limit 1
+2016-05-03 16:18:05 [INFO] [line:78]:sql：update stream set speed = '34444628.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 16:18:16 [INFO] [line:78]:sql：update stream set speed = '34778908.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 16:18:16 [INFO] [line:78]:sql：update stream set speed = '35445596.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 16:18:16 [INFO] [line:78]:sql：update stream set speed = '32704180.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 16:18:16 [INFO] [line:78]:sql：update stream set speed = '30859864.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada4' limit 1
+2016-05-03 16:18:16 [INFO] [line:78]:sql：update stream set speed = '28595042.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada5' limit 1
+2016-05-03 16:18:16 [INFO] [line:78]:sql：update stream set speed = '35897180.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 16:18:26 [INFO] [line:78]:sql：update stream set speed = '36244432.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 16:18:26 [INFO] [line:78]:sql：update stream set speed = '36899080.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 16:18:26 [INFO] [line:78]:sql：update stream set speed = '34169704.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 16:18:26 [INFO] [line:78]:sql：update stream set speed = '32325388.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada4' limit 1
+2016-05-03 16:18:26 [INFO] [line:78]:sql：update stream set speed = '30061032.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada5' limit 1
+2016-05-03 16:18:26 [INFO] [line:78]:sql：update stream set speed = '37363636.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 16:18:36 [INFO] [line:78]:sql：update stream set speed = '37710888.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada1' limit 1
+2016-05-03 16:18:36 [INFO] [line:78]:sql：update stream set speed = '38377576.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada2' limit 1
+2016-05-03 16:18:36 [INFO] [line:78]:sql：update stream set speed = '35635692.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada3' limit 1
+2016-05-03 16:18:36 [INFO] [line:78]:sql：update stream set speed = '33791844.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada4' limit 1
+2016-05-03 16:18:36 [INFO] [line:78]:sql：update stream set speed = '31527020.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada5' limit 1
+2016-05-03 16:18:36 [INFO] [line:78]:sql：update stream set speed = '38829624.000000',audio = '44100.000000',video = '10.000000',data='0.000000' where streamid = '6597890876564345678hsada' limit 1
+2016-05-03 17:26:08 [INFO] [line:47]:InitAll success.
+2016-05-03 17:26:08 [INFO] [line:27]:init mysql ok
+2016-05-03 17:26:08 [INFO] [line:98]:[main] InitAll success.

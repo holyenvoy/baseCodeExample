@@ -1,0 +1,26 @@
+package main
+
+import (
+	"fmt"
+	"os"
+	"os/signal"
+	"syscall"
+	"time"
+)
+
+func signalListen() {
+	c := make(chan os.Signal)
+	signal.Notify(c, syscall.SIGUSR1)
+	for {
+		s := <-c
+		fmt.Println("get signal:", s)
+	}
+
+}
+
+func main() {
+	go signalListen()
+	for {
+		time.Sleep(10 * time.Second)
+	}
+}

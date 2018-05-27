@@ -1,0 +1,34 @@
+package main
+
+import (
+	"fmt"
+	"time"
+)
+
+func main() {
+	var ch = make(chan string, 10)
+
+	for i := 0; i < 5; i++ {
+		go sum(i, i+10, ch)
+	}
+
+	for i := 0; i < 10; i++ {
+		fmt.Println("=================start to read ch")
+		//time.Sleep(time.Second * 1)
+		fmt.Print(<-ch)
+	}
+}
+
+func sum(start, end int, ch chan string) int {
+	fmt.Println("start to write ch ------------ firsrt")
+	ch <- fmt.Sprintf("write Sum from %d to %d is starting at %s\n", start, end, time.Now().String())
+	var sum int = 0
+	for i := start; i < end; i++ {
+		sum += i
+	}
+	time.Sleep(time.Second * 3)
+	fmt.Println("start to write ch ------------ second")
+
+	ch <- fmt.Sprintf("read Sum from %d to %d is %d at %s\n", start, end, sum, time.Now().String())
+	return sum
+}
